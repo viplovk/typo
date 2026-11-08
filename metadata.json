@@ -1,0 +1,6 @@
+{
+  "name": "KINESIS — Experimental Kinetic Typography",
+  "description": "An avant-garde kinetic typography experience blending Swiss modernism, digital brutalism, and interactive motion design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
